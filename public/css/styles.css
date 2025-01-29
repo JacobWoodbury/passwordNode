@@ -33,7 +33,7 @@ h3 span{
 }
 
 #backdrop{
-    background: url(/images/River.png) no-repeat;
+    background: url(../images/image.png) no-repeat;
     background-size: 100%; 
     padding-bottom: 10%;
 }
